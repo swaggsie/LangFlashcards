@@ -1,0 +1,147 @@
+La comunicación (del latín communicatio, -ōnis.1​) es la acción consciente de intercambiar información entre dos o más participantes con el fin de transmitir o recibir información u opiniones distintas.2​ Los pasos básicos de la comunicación son la formación de una intención de comunicar, la composición del mensaje, la codificación del mensaje, la transmisión de la señal, la recepción de la señal, la decodificación del mensaje y finalmente, la interpretación del mensaje por parte de un receptor.
+
+La comunicación en general toma lugar entre tres categorías de sujetos principales: los seres humanos (lenguaje), los organismos vivos (biosemiótica) y los dispositivos de comunicación habilitados (cibernética).
+
+En un sentido general, la comunicación es la interacción verbal, el contacto con otros seres, y se puede definir como el proceso mediante el cual se transmite una información de un punto a otro.3​
+
+Su propósito u objetivo se puede denominar bajo la acción de informar, generar acciones, crear un entendimiento o transmitir cierta idea. Los comunicadores tienen como función entregar información verídica y confirmada por más de tres fuentes.
+
+Formas de comunicación más importantes
+Dependiendo de las clases de signos que se emplee, se diferencia la comunicación no verbal y la comunicación verbal.
+
+En muchas ocasiones los signos verbales y los signos no verbales se combinan en un mensaje, dando lugar a formas mixtas de comunicación. Un ejemplo sería un anuncio publicitario, el cine o un cómic.
+
+Si se atiende a la relación que se establece entre emisor y receptor, se diferencia una comunicación unilateral y otra comunicación bilateral.
+
+La comunicación unilateral se produce cuando el receptor no se convierte en emisor. Sucede en las señales de tráfico. La comunicación bilateral se produce cuando el receptor se puede convertir a su vez en emisor. Sucede en una conversación.
+
+Comunicación no verbal
+Artículo principal: Comunicación no verbal
+
+La comunicación no verbal ayuda a que personas de idiomas diferentes puedan alcanzar un grado de comprensión
+La comunicación no verbal consiste en transmitir significados en la forma de mensajes no verbales. Se utilizan signos no lingüísticos. Ejemplos de comunicación no verbal incluyen los gestos, las expresiones faciales, la expresión corporal, el contacto visual, la manera de vestir, la háptica (comunicación por medio del tacto), la cronémica (significado del tiempo en la comunicación) y la kinésica (lenguaje corporal), entre otros. La misma comunicación oral contiene elementos no verbales como la paralingüística (elementos no verbales que acompañan a la lingüística, por ejemplo tonos de sorpresa, interés, desinterés, miedo, cansancio, insinuaciones, etc.) Según estudios, el 55 % de la comunicación humana se da por medio de expresiones faciales no verbales y un 38 % por medio del paralenguaje.5​ Esto incluye la misma comunicación escrita en la cual es posible determinar sentidos en el estilo de escritura, la distribución de espacios entre palabras y el uso de emoticonos para transmitir emociones. En este sentido, para transmitir un mensaje se emplean colores, como la marca azul y roja de los grifos, sonidos, como la sirena de una ambulancia, y gestos, como el guiño de un ojo.
+
+Algunos de los propósitos de la comunicación no verbal6​ incluyen la complementación e ilustración del mensaje para reforzar o enfatizarlo, reemplazar o sustituir, controlar o regular e incluso contradecir. Esto le da una gran importancia a la comunicación no verbal porque contribuye a reforzar las ideas y propósitos del emisor y ayuda al receptor a una mejor decodificación del mensaje que recibe.
+
+Comunicación verbal
+Artículo principal: Comunicación verbal
+La comunicación verbal o comunicación lingüística es aquella que utiliza las palabras como signos. No puede ser aislada de una serie de factores para que sea efectiva, lo que incluye la comunicación no verbal, las habilidades de escucha y la clarificación. El lenguaje humano puede ser definido como un sistema de símbolos o signos lingüísticos, conocidos como lexemas y reglas gramaticales en los cuales los símbolos son manipulados. La palabra "lenguaje" se refiere además a las propiedades comunes del mismo. Con estos signos se representan los objetos y hechos de la realidad, y uniéndolos mediante las reglas de la gramática se construyen mensajes complejos, es decir, las oraciones, con las cuales se representan pensamientos. En el caso de que dos personas hablen el mismo idioma, reconocerán los signos que cada uno pronuncia, y su significado, de tal manera que evocará en la mente un pensamiento o una idea que es la que se querrá transmitir.
+
+El aprendizaje de este ocurre normalmente y de manera intensa durante los años de la niñez humana. La mayoría de los idiomas en el mundo utilizan sonidos y gestos como símbolos que posibilitan la comunicación con otros lenguajes, los que tienden a compartir ciertas propiedades, aunque existen excepciones. No existe una línea definida entre un lenguaje o idioma y un dialecto. Lenguas construidas como el esperanto, el lenguaje de programación y varios formalismos matemáticos, no están necesariamente restringidos por las propiedades compartidas por el lenguaje humano.
+
+Fundamentalmente la comunicación verbal es oral, utilizando palabras pronunciadas con la voz. También puede ser escrita. En la escritura se transforman los sonidos en letras, y las palabras pronunciadas en palabras gráficas.
+
+Comunicación escrita
+Artículo principal: Comunicación escrita
+
+La invención de la escritura marcó el inicio de la historia de la humanidad. En la imagen, el llamado papiro de Artemidoro, que contiene el primer mapa de la península ibérica.7​ Es un rollo de tres metros de largo escrito en el siglo i antes de Cristo, tal vez en Alejandría.
+La comunicación escrita, a diferencia de la verbal, tiene otra manera de interacción entre emisor y receptor, produciéndose en el tiempo o incluso nunca, aunque lo escrito puede perdurar. A través de la historia, este tipo de comunicación se ha desarrollado gracias al impacto de las tecnologías y de la ciencia. Estos procesos de desarrollo se dividen en tres etapas: Los pictogramas como las formas más primitivas de escritura humana; el desarrollo de alfabetos en diferentes lenguas escritos sobre soportes físicos como la piedra, la cera, la arcilla, el papiro y, finalmente, el papel; y por último la información transmitida a través de medios electrónicos.
+
+La comunicación escrita requiere la habilidad interpersonal de procesar, escuchar, observar, hablar, cuestionar, analizar, gestar y evaluar en tal manera que se posibilite la colaboración y la cooperación. Los malentendidos pueden anticiparse y resolverse a través de formularios, preguntas y respuestas, parafraseo, ejemplos e historias.8​
+
+Teoría de la información
+Artículo principal: Teoría de la información
+
+Modelo de comunicación de Claude Elwood Shannon y Warren Weaver (1949), representa la fuente de la información, el codificador que envía el mensaje a través del medio de comunicación o canal de comunicación, el cual podría ser interrumpido o distorsionado por el ruido (representado en el rayo que cae) y que llega a un decodificador y de este al receptor el cual podría emitir a su vez una respuesta.
+El concepto de comunicación en el contexto de la Teoría de la Información es empleado en un sentido muy amplio en el que "quedan incluidos todos los procedimientos mediante los cuales una mente puede influir en otra". De esta manera, se consideran todas las formas que el hombre utiliza para transmitir sus ideas: la palabra hablada, escrita o transmitida (teléfono, radio, telégrafo, etc.), los gestos, la música, las imágenes, los movimientos, etc. En el proceso de comunicación es posible distinguir por lo menos tres niveles de análisis diferentes: el técnico, el semántico y el pragmático. En el nivel técnico se analizan aquellos problemas que surgen en torno a la fidelidad con que la información puede ser transmitida desde el emisor hasta el receptor. En el semántico se estudia todo aquello que se refiera al significado del mensaje y su interpretación. Por último, en el nivel pragmático se analizan los efectos conductuales de la comunicación, la influencia o efectividad del mensaje en tanto da lugar a una conducta. Es importante destacar que la Teoría de la Información se desarrolla como una respuesta a los problemas técnicos del proceso de comunicación, aun cuando sus principios puedan aplicarse en otros contextos.
+
+En muchos casos la comunicación suele confundirse con la teoría de la información, la cual corresponde a la teoría matemática de Claude E. Shannon que estudia la información (canales, comprensión de datos, criptografía y todo lo que se le relaciona) como magnitud física. Esta emplea una unidad de medida de la información a la que denomina el "BIT", es decir, la menor unidad que puede aprenderse. Esta unidad de medida de la información se sustenta en la alternativa sí o no en cada determinación que pueda dar elementos para el conocimiento de los objetos. Así, por ejemplo, la sexualidad de un sujeto puede darse por un BIT, simplemente, macho o hembra. Para fijar la posición de una pieza de ajedrez sobre un tablero de 64 casillas se necesitarán al menos 6 BITS o 6 preguntas binarias.
+
+Si bien la teoría de la información es fundamental al estudio de la comunicación y la comprensión de sus procesos, dicha teoría no responde a las preocupaciones de la comunicación humana misma como son los siguientes, entre muchos otros de carácter social:
+
+Relaciones sociales entre individuos o grupos dentro de una problemática social.
+Relación entre la comunicación mediática y el poder político.
+Carácter semiológico de la comunicación.
+Carácter lingüístico de la comunicación.
+Relación con otras ciencias sociales.
+Teoría de la comunicación
+
+Esquema en un estudio de televisión, 180 grados, nos señala que la realidad es vista por los medios de comunicación desde diferentes puntos de vista, por lo general escogidos por el emisor.
+La teoría de la comunicación es un campo de la teoría de la información que estudia los procesos de la información9​ y la comunicación humana.10​
+
+Las escuelas más conocidas de la teoría de la comunicación son las siguientes:
+
+Mecanicismo: Entiende la comunicación como un perfecto transmisor mecánico de un mensaje desde un emisor hasta un receptor.
+Psicológico: Considera a la comunicación como el acto de enviar un mensaje a un perceptor (llamado así porque considera al receptor como sujeto de la comunicación) y en el cual las sensaciones y las ideas de ambas partes influyen considerablemente en el contenido del mensaje.
+Construccionismo social: Este punto de vista, también llamado "interaccionismo simbólico", considera a la comunicación como el producto de significados creativos e interrelaciones compartidas.
+Sistemática: Considera a la comunicación como un mensaje que pasa por un largo y complejo proceso de transformaciones e interpretaciones desde que ocurre hasta que llega a los perceptores.
+Dichas teorías se estudian además desde las siguientes perspectivas:
+
+Ontología: Pone la pregunta sobre el qué se comunica.
+Epistemología: Pone la pregunta sobre el cómo se comunica.
+Elementos básicos de la comunicación
+
+Modelo de comunicación tipo jakobsoniano con elementos y funciones
+
+Los siguientes son los elementos básicos de la comunicación:
+
+Código: es un conjunto de signos que se combinan siguiendo unas reglas (semántica) y que permiten su interpretación (decodificación), por el cual el emisor elabora el mensaje. El receptor también ha de conocer el código para interpretar el mensaje. Para que se pueda producir la comunicación entre dos personas de distinta lengua se hace uso del extranjerismo.
+Canal: el medio físico a través del cual se transmite el mensaje desde el emisor hasta el receptor.
+Emisor: es la persona que tiene la intención y se encarga de transmitir una información (mensaje), para lo que necesita elaborarla y enviarla al receptor. Esta persona elige y selecciona los signos que le convienen, es decir, realiza un proceso de codificación; codifica el mensaje.
+Receptor: Se denomina como receptor a la persona que recibe e interpreta un mensaje, previamente enviado por un emisor. Es decir, es quien se encarga de descodificar los signos del mensaje recibido. Una vez interpretada tal información, el receptor puede responder, y de esta manera, ocupar el lugar del emisor, generando una acción comunicativa.
+Mensaje: En el sentido más general, es el objeto de la comunicación. Está definido como la información o secuencia de signos que el emisor elabora y envía al receptor a través de un canal de comunicación o medio de comunicación determinado.
+Situación, situación comunicativa o contexto: En el sentido más general, es el espacio donde se desarrolla el acto o situación comunicativo. Es el conjunto de circunstancias que afectan tanto al emisor como al receptor, y además condicionan la interpretación del mensaje. Tanto emisor como receptor deben ser conscientes de las circunstancias de ese acto comunicativo, que en una conversación se da por entendido, para que sea eficaz la comunicación.
+Marco de referencia: Es el entorno que enmarca la situación.
+Los siguientes son los elementos básicos mecánicos de la comunicación:
+
+Fuente o Emisor (Remitente): Dispositivo que genera los datos a transmitir, por ejemplo teléfonos o computadores personales.
+Transmisor: Transforma y codifica la información, generando señales electromagnéticas que pueden ser enviadas a través de algún sistema de transmisión. Por ejemplo, una antena.
+Sistema de transmisión: Puede ser desde una sencilla línea de transmisión hasta una compleja red que conecte a la fuente con el destino.
+Receptor: Es la persona que recibe, acepta e interpreta la señal (mensaje) proveniente del emisor, y la transforma de tal manera que pueda ser manejada por el destino. Por ejemplo, una radio o un televisor.
+Destino, destinatario o destinación: Toma los datos del receptor, por ejemplo la audiencia.
+Funciones de la comunicación
+
+«Este es el enemigo», 1941, propaganda estadounidense destinada a promover el rechazo contra el nazismo.
+La comunicación puede tener funciones como informar, persuadir, regular y motivar, entre muchas otras. Las funciones más básicas son cuatro:
+
+Informativa: Tiene que ver con la transmisión y recepción de la información. A través de ella el receptor accede al caudal de la experiencia social e histórica.
+Formativa: La formación de hábitos, habilidad intelectual y convicciones. En esta función el emisor influye en el estado mental interno del receptor aportando nueva información.
+Persuasiva: El emisor pretende modificar la conducta u opinión del receptor de manera que coopere en determinado propósito. O bien que cree en su mente una percepción sobre una organización, empresa, servicio o producto.11​ Se denomina Comunicación de Marketing y se aplica a todos los ámbitos sociales on y off-line, tales como el político, el social, el medioambiental, el comercial, etc.11​
+Entretener: El emisor crea contenidos que el receptor disfruta.
+Otras Funciones de la comunicación dentro de un grupo o equipo:
+
+Reguladora: El emisor pretende regular la conducta del receptor, por ejemplo en una norma social determinada.
+Control: El emisor pretende controlar el comportamiento del receptor, por ejemplo estableciendo un sistema de premios y sanciones sociales.
+Motivación: El emisor pretende motivar al receptor en la realización de determinados actos, por ejemplo el jefe dentro de una empresa.
+Expresión emocional: La comunicación se presenta como el medio para expresar ideas, emociones, por ejemplo los empleados pueden comunicar lo que piensan de su empresa.
+Cooperación: La comunicación se constituye como una ayuda importante en la solución de problemas.
+Signos
+
+Lo que se ve en la imagen no es la provincia de Valladolid, sino una representación de la misma. Esta imagen sirve para evocar la idea del territorio de la provincia de Valladolid. De la misma manera, tanto las nubes como el Sol son también unas representaciones que nos evoca la idea de que está tanto soleado como nublado.
+Para comunicar algo sobre los objetos de la realidad, se usarán signos que representan a esos objetos. Las palabras, por ello, es el "nombre de las cosas".
+
+Un signo es cualquier cosa que percibimos por los sentidos y evoca otro objeto o hecho diferente con el que mantiene una relación. Según la relación que se establece, existen tres tipos de signos.
+
+Indicios: Basados en la relación causa-efecto entre dos hechos. Los indicios transmiten una información que hasta ese momento no se conocía.
+Iconos: Basados en la relación de semejanza entre dos hechos.
+Símbolos: Signos convencionales que mantienen una relación arbitraria con el hecho representado.
+EL filósofo y escritor Umberto Eco, en su obra Il segno (Signo), realiza una descripción de lo que es un signo:
+
+Estos signos no son fenómenos naturales; los fenómenos no dicen nada por sí mismos. Los fenómenos naturales «hablan» a Sigma, en la medida en que toda una tradición campesina le ha enseñado a leerlos. Así pues, Sigma vive en un mundo de signos, no porque vivía en la naturaleza, sino porque, incluso cuando está solo, vive en la sociedad; aquella sociedad rural que no se habría constituido y no habría podido sobrevivir si no hubiera elaborado sus códigos propios, sus propios sistemas de interpretación de los datos naturales (y que por esa razón se convertían en datos culturales).
+Umberto Eco, Il segno, 1973.
+También Jonathan Swift, autor de Los viajes de Gulliver, hace mención del signo lingüístico:
+
+Después fuimos a la Escuela de Idiomas, donde tres profesores estaban deliberando para mejorar la [lengua] de su país. [Uno de los sistemas que proyectaban] era un sistema para abolir por completo todas las palabras y se encarecía como una gran ventaja en punto a salud y brevedad. Pues es manifiesto que cada palabra que pronunciamos es en cierto modo una disminución de nuestros pulmones por corrosión, y por lo tanto contribuye a acortarnos la vida. Se ofreció, en consecuencia, una solución: que como las palabras son solo nombres de las cosas, sería más conveniente para todos lo hombres llevar consigo las cosas que fueron necesarias para expresar el particular negocio que tuvieran que tratar [...] Vi con frecuencia a dos de aquellos sabios desfallecer casi bajo el peso de sus fardos, como los buhoneros entre nosotros; y cuando se encontraban en las calles, dejaban las cargas en el suelo, abrían sus sacos y conversaban una hora; después recogían sus enseres, se ayudaban mutuamente a echárselos a cuestas y se despedían
+Jonathan Swift, Los viajes de Gulliver, 1726.
+Ciencias de la comunicación
+Esta sección es un extracto de Ciencias de la comunicación.[editar]
+
+En organizaciones corporativas e institucionales la comunicación constituye un soporte fundamental para el desarrollo, el desenvolvimiento y la visibilidad de las mismas.
+Las ciencias de la comunicación (comunicación social, comunicología o simplemente comunicación) analizan, estudian y discuten los fenómenos relacionados con la información y el efecto de la acción de la comunicación humana.12​ También se encargan de observar y examinar los medios de difusión masivos (desde su legislación, hasta la producción y recepción de los contenidos), las industrias culturales, el consumo y el conjunto semiótico que estos construyen.
+
+Se trata de un campo de estudios interdisciplinario cuyos conceptos teóricos son compartidos e intervenidos con frecuencia. Es abordado principalmente por disciplinas como la semiótica, la psicología, la ciencia política, la sociolingüística, la antropología, la filosofía, la informática, la cibernética, la sociología, etc.; pero elabora herramientas analíticas y métodos de estudio propios.13​
+
+La comunicación abarca un amplio abanico de especialidades laborales, como las relaciones públicas, la publicidad, el diseño gráfico, las redes sociales, la fotografía, la comunicación audiovisual, la comunicación institucional, la comunicación política, el periodismo, el cine, los videojuegos, las telecomunicaciones, entre otras.
+
+Gran parte de los estudios y análisis desarrollados en materia de comunicación provienen de distintas escuelas de pensamiento e investigación, entre las que se destacan la Escuela de Palo Alto de Estados Unidos, la escuela de Fráncfort de Alemania, la Mass Communication Research estadounidense (fundada con base en la entonces fuerte corriente del conductismo), la New York Academy of Sciences; y de campos de investigación tales como el de los estudios culturales, que concentra numerosas observaciones relacionadas con la economía política, la historia, la teoría literaria (entre otras) y que a su vez se examinan conforme a las prácticas culturales que se realizan en contexto del poder político, de las ideologías, de la nacionalidad, del sentido, de la etnia, etcétera.
+
+
+Comunicación audiovisual
+Relación con otras disciplinas
+Marketing:11​ Es la ciencia que teniendo en cuenta las necesidades y deseos de la población mediante el adecuado conocimiento psicosociológico, integra de manera global el producto, el servicio, la idea o acto que se desea promover, determinando el precio o sacrificio que las personas que lo adopten deben soportar, definiendo la manera de hacerlo llegar a los adoptantes y diseñando las acciones de comunicación más adecuadas dependiendo de la tipología de cada uno de los tipos que conformen su público objetivo, con la finalidad de conseguir la máxima eficiencia. Las organizaciones sin ánimo de lucro de más éxito conforman su estrategia de comunicación como variable de marketing, los partidos políticos más exitosos conforman sus estrategias de comunicación como variable de marketing y todas las empresas y organizaciones que destacan de manera notoria usan la comunicación como variable de marketing.
+Neuromarketing:11​ Es una disciplina de las neurociencias que evalúa las acciones de marketing y comunicación mediante el uso de técnicas de neurociencias, midiendo las reacciones inconscientes de los individuos, de tal manera, que sustituye los estudios de mercados y de opinión tradicionales basados en cuestionarios, focus-groups, etc. Según González-Morales (2016), presidente de la Asociación Española de Neuromarketing y Neurocomunicación (AENENE), quien define el neuromarketing tomando como punto de partida la definición de marketing de Philip Kotler, “El Neuromarketing es el uso de las neurociencias con la finalidad de facilitar y mejorar la creación, la comunicación y el intercambio de acciones, servicios y productos de valor entre grupos e individuos que necesitan y desean satisfacer sus necesidades mediante estos intercambios”.
+Psicología: En esta se analiza al sujeto-objeto de la comunicación, sus problemas, necesidades y maneras de asimilar y la influencia que el mensaje tiene en ellos, en especial desde la psicología de la personalidad, la evolución y la social.
+Sociología: En esta se analiza el impacto social del mensaje y la dinámica de los grupos, así como la forma en que las condiciones sociales influyen en los contenidos y formas de la comunicación.
+Cibernética: En esta se analizan los procesos autorregulados y controlados, la reacción (feedback) y la forma en que los medios de comunicación pueden influir sobre los procesos sociales a gran escala.
+Pedagogía: En esta se analizan los principios didácticos para la elaboración y comprensión de los mensajes, la formación de convicciones y procedimientos generales de aprendizaje a través de los medios.
+Educación: La comunicación educativa es el campo del conocimiento que estudia la relación entre comunicación y educación. Analiza el proceso en el cual las personas intercambian ideas, conocimientos y experiencias, dentro de un contexto educativo, ya sea formal o informal. Este concepto surge en la década de 1960 y algunos autores lo han utilizado como sinónimo de educomunicación.14​ De igual forma que en el concepto tradicional de comunicación, en la comunicación educativa se distinguen los principales elementos: emisor, que en este caso es el educador; receptor, que corresponde al papel del alumno; y el mensaje, que es el contenido de enseñanza/aprendizaje. Desde la postura de la corriente latinoamericana de educadores y comunicadores, entre ellos, Paulo Freire, Mario Kaplún, y Daniel Prieto Castillo, proponen el diálogo, como requisito indispensable para que exista un verdadero proceso de comunicación educativa.15​ Desde esta perspectiva, la educación requiere una comunicación horizontal. En contra de la educación bancaria, es decir, del depósito o transmisión de información por parte del maestro al alumno, se propone una educación liberadora, que permita a las personas la comprensión crítica del mundo. Asimismo, los contenidos de enseñanza/aprendizaje no son seleccionados únicamente por los educadores, pues los alumnos también toman parte en la selección de estos.16​
